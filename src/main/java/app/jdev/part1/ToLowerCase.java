@@ -1,4 +1,4 @@
-package app.jdev.copy1;
+package app.jdev.part1;
 
 public class ToLowerCase implements StringOperation {
     @Override

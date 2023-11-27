@@ -1,4 +1,4 @@
-package app.jdev.copy2;
+package app.jdev.part2;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package app.jdev.copy2;
+package app.jdev.part1;
 
 @FunctionalInterface
 public interface StringOperation {

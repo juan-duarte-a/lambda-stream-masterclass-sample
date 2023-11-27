@@ -1,4 +1,4 @@
-package app.jdev.copy1;
+package app.jdev.part1;
 
 import java.util.Comparator;
 
